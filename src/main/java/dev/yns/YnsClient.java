@@ -20,7 +20,7 @@ public final class YnsClient implements ClientModInitializer {
         openKey = KeyBindingHelper.registerKeyBinding(new KeyBinding(
                 "key.yns.open",
                 InputUtil.Type.KEYSYM,
-                GLFW.GLFW_KEY_RIGHT_SHIFT,
+                GLFW.GLFW_KEY_B,
                 KeyBinding.Category.create(Identifier.of("yns", "main"))
         ));
 

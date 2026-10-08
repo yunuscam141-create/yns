@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "yns",
   "version": "${version}",
-  "name": "YNS",
-  "description": "YNS - per-texture resource pack selector for Minecraft 1.21.11.",
+  "name": "YNS Styles",
+  "description": "YNS Styles - per-texture style and texture mixer for Minecraft 1.21.11.",
   "authors": ["YNS"],
   "environment": "client",
   "entrypoints": {

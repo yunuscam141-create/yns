@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "yns",
+  "version": "${version}",
+  "name": "YNS",
+  "description": "YNS - per-texture resource pack selector for Minecraft 1.21.11.",
+  "authors": ["YNS"],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.yns.YnsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "1.21.11",
+    "fabric-api": "*"
+  }
+}
